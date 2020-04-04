@@ -17,3 +17,6 @@ The following are a few resources to help folks that want to 3D print or laser c
 - I am personally printing these [S-hooks](https://community.glowforge.com/t/mask-s-hooks-space-saving-version/59468) to donate to hospitals.
 - [Face Mask Design](https://community.glowforge.com/t/glowforge-optimized-proto-shield-files-covid-19-face-mask-design/58984)
   
+----
+
+Please feel free to contribute by creating an issue or by [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
