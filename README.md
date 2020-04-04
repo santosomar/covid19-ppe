@@ -3,6 +3,7 @@ The following are a few resources to help folks that want to 3D print or laser c
 
 ## 3D Printing
 - [NIH 3d Print Exchange](https://3dprint.nih.gov)
+- [NEWBO.co Resources](https://newbo.co/ppe)
 - A few Thingiverse itemns:
   - https://www.thingiverse.com/thing:4225667
   - https://www.thingiverse.com/thing:4222563
